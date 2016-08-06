@@ -1,0 +1,33 @@
+_repo: L-argent-des-autresI.-Les-hommes-de-paille_11588
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- Detective Fiction
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11588'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PQ'
+- GITenberg
+title: 'L''argent des autres
+
+  I. Les hommes de paille'
+url: http://www.gutenberg.org/ebooks/11588
